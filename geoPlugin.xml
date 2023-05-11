@@ -1,0 +1,28 @@
+<geoPlugin>
+    <geoplugin_request>92.62.69.246</geoplugin_request>
+    <geoplugin_status>200</geoplugin_status>
+    <geoplugin_delay>2ms</geoplugin_delay>
+    <geoplugin_credit>
+        Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    </geoplugin_credit>
+    <geoplugin_city>Bishkek</geoplugin_city>
+    <geoplugin_region>Gorod Bishkek</geoplugin_region>
+    <geoplugin_regionCode>GB</geoplugin_regionCode>
+    <geoplugin_regionName>Gorod Bishkek</geoplugin_regionName>
+    <geoplugin_areaCode/>
+    <geoplugin_dmaCode/>
+    <geoplugin_countryCode>KG</geoplugin_countryCode>
+    <geoplugin_countryName>Kyrgyzstan</geoplugin_countryName>
+    <geoplugin_inEU>0</geoplugin_inEU>
+    <geoplugin_euVATrate/>
+    <geoplugin_continentCode>AS</geoplugin_continentCode>
+    <geoplugin_continentName>Asia</geoplugin_continentName>
+    <geoplugin_latitude>42.869</geoplugin_latitude>
+    <geoplugin_longitude>74.5939</geoplugin_longitude>
+    <geoplugin_locationAccuracyRadius>5</geoplugin_locationAccuracyRadius>
+    <geoplugin_timezone>Asia/Bishkek</geoplugin_timezone>
+    <geoplugin_currencyCode>KGS</geoplugin_currencyCode>
+    <geoplugin_currencySymbol>&#1083;&#1074;</geoplugin_currencySymbol>
+    <geoplugin_currencySymbol_UTF8>лв</geoplugin_currencySymbol_UTF8>
+    <geoplugin_currencyConverter>87.3011</geoplugin_currencyConverter>
+</geoPlugin>
